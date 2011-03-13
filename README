@@ -1,1 +1,5 @@
 simple prime pair generator
+
+note: 
+the prime finder algorithm is an implementation of sieve found on
+ http://stackoverflow.com/questions/567222/simple-prime-generator-in-python
